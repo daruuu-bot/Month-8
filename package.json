@@ -1,0 +1,9 @@
+{
+  "name": "heart-puzzle",
+  "version": "1.0.0",
+  "description": "Complete the four-piece heart puzzle to reveal a letter.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
